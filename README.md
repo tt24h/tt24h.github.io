@@ -8,6 +8,7 @@
 * 《老子道德经：四种原文表》（PDF）：
 
     * → 仓库： https://github.com/tt24h/daodejing
+    * → 在线阅读：https://tt24h.github.io/daodejing
 
 * 字典与字典工具的介绍：
     
