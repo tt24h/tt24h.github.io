@@ -11,4 +11,4 @@
 
 * 字典与字典工具的介绍：
     
-    * → https://tt24h.github.io/laozi/字典与字典工具的介绍.html
+    * → https://tt24h.github.io/字典与字典工具的介绍.html
