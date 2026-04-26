@@ -11,8 +11,7 @@ layout: default
   
 * 《老子道德经：四种原文表》（PDF）：
 
-    * → 仓库： [https://github.com/tt24h/daodejing](https://tt24h.github.io/laozi/)
+    * → 仓库： [https://github.com/tt24h/daodejing](https://github.com/tt24h/daodejing)
 
 * 字典与字典工具的介绍：
     * → [https://tt24h.github.io/字典与字典工具的介绍.html](https://tt24h.github.io/字典与字典工具的介绍.html)
-
