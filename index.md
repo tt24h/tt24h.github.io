@@ -11,7 +11,7 @@
 * 《老子道德经：四种原文表》（PDF）：
 
     * → 仓库： [https://github.com/tt24h/daodejing](https://github.com/tt24h/daodejing)
-    * → 在线阅读： [https://tt24h.github.io/daodejing](https://tt24h.github.io/daodejing)
+    * → 在线阅读： [https://tt24h.github.io/daodejing](https://tt24h.github.io/daodejing/#p6)
     * → PDF 下载：[https://github.com/tt24h/daodejing/releases/latest/download/daodejing.pdf](https://github.com/tt24h/daodejing/releases/latest/download/daodejing.pdf)
     * 无论哪个版本，内容、排版、页数都是一样。（四种原文表的在线版内容为 SVG 图片，由 PDF 版转换来的）
 
